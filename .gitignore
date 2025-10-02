@@ -212,3 +212,6 @@ __marimo__/
 # R
 renv/library/
 renv/staging/
+
+#LibreOffice
+.~lock.*#
